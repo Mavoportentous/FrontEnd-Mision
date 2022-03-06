@@ -55,9 +55,14 @@ body{
 }
 
 .container{
-    background-color: #422918;
-    border-radius: 50px;;
+    background-color:rgba(66, 41, 24, 0.8);
+    border-radius: 50px;
+    padding: 20px;
     
+}
+
+.catalogo{
+    background-color: rgba();
 }
 
 .font-small{
